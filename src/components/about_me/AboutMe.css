@@ -1,0 +1,27 @@
+.aboutme-container{
+    background-color:#030712;
+    color:#fff;
+    height:fit-content;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    padding:10vh 0
+}
+.aboutme-text{
+    color:#C7C7C7;
+    margin: 10px 0
+}
+.exp-edu-container{
+    width:80vw;
+    /* border: 2px solid red; */
+    /* height:90vh; */
+    /* margin-top: 5vh; */
+    text-align:  left;
+}
+.heading{
+    font-size: 50px;
+    font-family: "Bebas Neue", sans-serif;
+    color: #D3E97A;
+    margin-top:5vh
+}

@@ -1,0 +1,51 @@
+.navbar-container{
+    background-color:#030712;
+    color:#fff;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0px 60px;
+    color:#C7C7C7;
+    height:10vh
+}
+.name{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+} 
+.nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width:43vw
+}
+.nav-text-container{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width:30vw;
+}
+.nav-text>a{
+    text-decoration: none;
+    color:#C7C7C7;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.download-csv{
+    color: #000;
+    display: flex;
+    align-items: center;
+}
+.download-csv-button{
+    background-color: #fff;
+    padding:7px 10px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 14px;
+    border: 0px;
+}

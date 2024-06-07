@@ -1,0 +1,79 @@
+.home-container{
+    background-color:#030712;
+    color:#fff;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 7vw
+}
+.name-text-container{
+    text-align: left;
+}
+.name-text{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    text-align: left;
+}
+.name-text>span{
+    color: #D3E97A;
+}
+.description{
+    text-align:left;
+    color:#C7C7C7;
+    width:90%
+}
+.location-container{
+   margin:50px 0;
+   color:#C7C7C7;
+}
+.location{
+    display: flex;
+    align-items: center;
+}
+
+.location-logo{
+    display:flex;
+    align-items: center;
+    margin-right:5px
+}
+.availability{
+    display: flex;
+    margin-top: 10px;
+}
+.availability-logo{
+    display:flex;
+    align-items: center;
+    margin-right:5px;
+    color:green;
+}
+.social-media{
+    display: flex;
+    align-items: center;
+}
+.social-media-logo{
+    text-decoration: none;
+    color:#C7C7C7;
+    margin-right: 10px;
+}
+.home-left{
+    width:50vw
+
+}
+.home-right{
+    padding:0;
+    margin:3vw
+}
+.profile-container{
+    border: 2px solid #030712;
+    border-right: 5px solid #030712;
+    box-shadow: 25px 25px #374151;
+}
+.profile-container> img{
+    padding:0;
+    margin:0;
+    object-fit:cover;
+    height: 350px;
+}

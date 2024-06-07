@@ -1,0 +1,36 @@
+.expcard-container{
+    width: 70%;
+    margin-top:2vh;
+    color:#c7c7c7
+}
+.title{
+    font-size: 25px;
+}
+.expcard-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.expcard-2{
+    margin:15px 0 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:#a7a7a7
+}
+.company-container{
+    width:70%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.company{
+    max-width:60%;
+}
+.location{
+    width:30%;
+    text-align: left;
+}
+.line{
+    border:1px solid #c7c7c7
+}
